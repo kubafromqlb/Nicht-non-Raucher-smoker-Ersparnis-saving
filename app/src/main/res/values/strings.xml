@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nichtraucher Ersparnis</string>
+
+    <string name="tvdate">Seit wann rauchst Du nicht?</string>
+    <string name="ueberschrift">Hier kannst Du alles eintragen.</string>
+    <string name="stueck">Stück</string>
+    <string name="button">Bin fertig!</string>
+    <string name="lasssehen">Lass sehen !</string>
+    <string name="textview">Vier Fragen beantworten, schon siehst Du Deine Ersparnis !</string>
+    <string name="date">Datum</string>
+    <string name="partperday">Wieviel Zigaretten hast Du täglich geraucht?</string>
+</resources>
